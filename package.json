@@ -1,0 +1,23 @@
+{
+  "name": "stockscreener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziming1999/stockscreener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziming1999/stockscreener/issues"
+  },
+  "homepage": "https://github.com/ziming1999/stockscreener#readme",
+  "dependencies": {
+    "mongodb": "^3.6.8",
+    "puppeteer": "^9.1.1"
+  }
+}
