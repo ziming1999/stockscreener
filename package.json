@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ziming1999/stockscreener#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "mongodb": "^3.6.8",
     "puppeteer": "^9.1.1"
   }
